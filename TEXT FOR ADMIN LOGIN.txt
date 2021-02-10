@@ -1,0 +1,2 @@
+NAME = bitto
+PASSWORD = 181352379
